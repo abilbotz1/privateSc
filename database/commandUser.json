@@ -1,0 +1,132 @@
+[
+  {
+    "jid": "6285922404374@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 17
+      },
+      {
+        "nama": "#welcome",
+        "count": 1
+      },
+      {
+        "nama": "#speed",
+        "count": 1
+      },
+      {
+        "nama": "#infobot",
+        "count": 1
+      },
+      {
+        "nama": "#toimage",
+        "count": 2
+      },
+      {
+        "nama": "#donate",
+        "count": 1
+      },
+      {
+        "nama": "#afk",
+        "count": 1
+      },
+      {
+        "nama": "#sticker",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285100355335@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 10
+      },
+      {
+        "nama": "#donate",
+        "count": 5
+      },
+      {
+        "nama": "#infobot",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "3547877877@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6287721317870@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6283157243210@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 3
+      },
+      {
+        "nama": "#sticker",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "jid": "6285831267138@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "6285878182213@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6287899117904@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#sticker",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "jid": "6287740159258@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6281523940672@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#waifu",
+        "count": 1
+      }
+    ]
+  }
+]

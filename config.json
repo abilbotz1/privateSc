@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6282146218274@s.whatsapp.net","6283813417529@s.whatsapp.net"],
+    "ownerName": "RiellGanzz",
+    "instagram" : "https://instagram.com/riellxd_04",
+    "botName": "Khurushi-Md",
+    "footer": "KHURUSHI ALL REVERSED",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": true,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
